@@ -1,5 +1,5 @@
 <?php
-namespace AndyKirk\PHPHelpers\HTMLHelpers;
+namespace AndyKirk\PHPHelpers\FormHelper;
 
 class formHelperValidator
 {
