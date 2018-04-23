@@ -1,0 +1,24 @@
+{
+    "name" : "andykirk/PHP-Helpers",
+    "description" : "Some classes to help with some common tasks",
+    "keywords" : ["php","html"],
+    "homepage" : "https://github.com/andykirk/PHP-Helpers",
+    "license" : "MIT",
+    "authors" : [
+        {
+            "name" : "Andy Kirk",
+            "email" : "andy@andykirk.net",
+            "homepage" : "andykirk.net",
+            "role" : "Developer"
+        }
+    ],
+    "require" : {
+    },
+    "require-dev": {
+    },
+    "autoload": {
+        "psr-4": {
+            "AndyKirk\\PHPHelpers\\": "helpers/"
+        }
+    }
+}
